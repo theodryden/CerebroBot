@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## AI-Polaroid README
+- This is a Next.JS/React Website built to leverage Artificial Intelligence
 
-## Getting Started
+## Features
+- User Authentication and Management Service using clerk Authentication ( https://clerk.com/ )
 
-First, run the development server:
+## Special Thanks
+- Special thanks to JavaScript Mastery for the project inspiration.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+  
+## Learn More 
+To learn more about my projects and coding journey take a look at the following resources:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Codecademy**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+https://www.codecademy.com/users/TheoDryden/achievements
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+**LinkedIN**
 
-## Learn More
+https://www.linkedin.com/in/theo-dryden-bb6526114/ 
 
-To learn more about Next.js, take a look at the following resources:
+**Github**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+https://github.com/theodryden
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+**Youtube Channel**
 
-## Deploy on Vercel
+https://www.youtube.com/channel/UCd7TxJrTbBP4e_tQULCyTnA
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
