@@ -5,10 +5,11 @@
 - User Authentication and Management Service using clerk Authentication ( https://clerk.com/ )
 
 # Tech Stack
+- JavaScript
 - TypeScript
 - React
 - Next.JS
-- MongoDB and Mongoose Database
+- MongoDB Database
 
 ## Special Thanks
 - Special thanks to JavaScript Mastery for the project inspiration.
