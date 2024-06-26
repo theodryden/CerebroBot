@@ -1,12 +1,17 @@
-## AI-Polaroid README
+## CerebroBot README
 - This is a Next.JS/React Website built to leverage Artificial Intelligence
 
 ## Features
 - User Authentication and Management Service using clerk Authentication ( https://clerk.com/ )
 
+# Tech Stack
+- TypeScript
+- React
+- Next.JS
+- MongoDB and Mongoose Database
+
 ## Special Thanks
 - Special thanks to JavaScript Mastery for the project inspiration.
-
   
 ## Learn More 
 To learn more about my projects and coding journey take a look at the following resources:
