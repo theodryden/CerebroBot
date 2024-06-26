@@ -3,10 +3,12 @@
 
 ## Features
 - User Authentication and Management Service using clerk Authentication ( https://clerk.com/ )
+- MongoDB and Mongoose Database
+- TypeScript
+- React
 
 ## Special Thanks
 - Special thanks to JavaScript Mastery for the project inspiration.
-
   
 ## Learn More 
 To learn more about my projects and coding journey take a look at the following resources:
