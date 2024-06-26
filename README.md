@@ -1,4 +1,4 @@
-## AI-Polaroid README
+## CerebroBot README
 - This is a Next.JS/React Website built to leverage Artificial Intelligence
 
 ## Features
